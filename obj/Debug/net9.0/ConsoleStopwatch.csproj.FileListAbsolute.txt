@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\ConsoleStopwatch\bin\Debug\net9.0\ConsoleStopwatch.exe
+C:\Users\HP\Downloads\ConsoleStopwatch\bin\Debug\net9.0\ConsoleStopwatch.deps.json
+C:\Users\HP\Downloads\ConsoleStopwatch\bin\Debug\net9.0\ConsoleStopwatch.runtimeconfig.json
+C:\Users\HP\Downloads\ConsoleStopwatch\bin\Debug\net9.0\ConsoleStopwatch.dll
+C:\Users\HP\Downloads\ConsoleStopwatch\bin\Debug\net9.0\ConsoleStopwatch.pdb
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.AssemblyInfo.cs
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.sourcelink.json
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.dll
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\refint\ConsoleStopwatch.dll
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.pdb
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ConsoleStopwatch.genruntimeconfig.cache
+C:\Users\HP\Downloads\ConsoleStopwatch\obj\Debug\net9.0\ref\ConsoleStopwatch.dll
