@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleStopwatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3793172d3eccf2643527ff53f4e1a7986f015585")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e3ddaba8e2618ca7f90c9145aaa445ef5c06aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleStopwatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleStopwatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

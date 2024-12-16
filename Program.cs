@@ -12,9 +12,9 @@ class Program
         Console.WriteLine("Console Stopwatch");
         Console.WriteLine("Commands:");
         Console.WriteLine("  start   - Start or restart the stopwatch");
-        Console.WriteLine("  pause   - Pause the stopwatch");
-        Console.WriteLine("  resume  - Resume the stopwatch");
-        Console.WriteLine("  reset   - Reset the stopwatch to 00:00:00");
+        Console.WriteLine("  p   - Pause the stopwatch");
+        Console.WriteLine("  r  - Resume the stopwatch");
+        Console.WriteLine("  s   - Stop and Reset the stopwatch to 00:00:00");
         Console.WriteLine("  exit    - Exit the program");
 
         while (running)
@@ -30,12 +30,12 @@ class Program
                     DisplayTime(stopwatch);
                     break;
 
-                case "pause":
+                case "p":
                     stopwatch.Stop();
                     Console.WriteLine("Stopwatch paused.");
                     break;
 
-                case "resume":
+                case "r":
                     if (!stopwatch.IsRunning)
                     {
                         stopwatch.Start();
@@ -47,7 +47,7 @@ class Program
                     }
                     break;
 
-                case "reset":
+                case "s":
                     stopwatch.Reset();
                     Console.WriteLine("Stopwatch reset to 00:00:00.");
                     break;
